@@ -1,0 +1,25 @@
+.header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 2px 2px 8px 2px gray;
+}
+
+.nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.nav__link__home {
+  margin-right: 15px;
+
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.nav__link__movies {
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}

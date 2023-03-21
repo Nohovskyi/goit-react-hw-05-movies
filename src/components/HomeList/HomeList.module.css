@@ -1,0 +1,14 @@
+.list__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.list__link {
+  color: black;
+  font-size: 14px;
+  transition: color 250ms linear;
+}
+
+.list__link:hover,
+.list__link:focus {
+  color: blue;
+}

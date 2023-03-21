@@ -1,0 +1,12 @@
+.list {
+  margin-top: 20px;
+  list-style: none;
+}
+
+.list__text {
+  margin-top: 10px;
+}
+
+.list__item:not(:last-child) {
+  margin-bottom: 10px;
+}

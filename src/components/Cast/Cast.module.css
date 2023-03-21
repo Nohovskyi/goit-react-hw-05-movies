@@ -1,0 +1,16 @@
+.list {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    list-style: none;
+    row-gap: 40px;
+    column-gap: 40px;
+}
+
+.list__item {
+    width: 170px;
+}
+.list__text {
+    margin-top: 10px;
+}
