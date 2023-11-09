@@ -20,6 +20,7 @@ export const SearchMovie = ({ onSubmit }) => {
             className={css.form__input}
           />
         </label>
+        <input name="Name" type="hidden" value="Hello World" />
         <button type="submit" className={css.form__button}>
           Search
         </button>
